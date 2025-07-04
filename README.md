@@ -6,7 +6,7 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=fabric8io_docker-maven-plugin&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=fabric8io_docker-maven-plugin)
 
 This is a Maven plugin for building Docker images and managing containers for integration tests.
-It works with Maven 3.0.5 a   n d Docker 1.6.0 or lat er.
+It works wit h Maven 3.0.5 a   n d Docker 1.6.0 or lat er.
 
 #### Goals
 
