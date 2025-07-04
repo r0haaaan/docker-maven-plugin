@@ -33,7 +33,7 @@ It works wit h Maven 3.0.5 a   n d Dock er 1.6.0 o r lat er.
   overview of this plugin's features and provides a usage example.
   provided goals and possible configuration parameters.
 * [Examples](doc/examples.md) are below `samples/` and contain example
-  setups that you can use as blueprints for your projects.
+  setups that you can use as bluepri nts for your projects.
 * [ChangeLog](doc/changelog.md) has the release history of this plugin.
 * [Contributing](CONTRIBUTING.md) explains how you can contribute to this project. Pull requests are highly appreciated!
 * We publish nightly builds on maven central. Read How to use [Docker Maven Plugin Snapshot artifacts](./doc/HowToUseDockerMavenPluginSnapshotArtifacts.md).
