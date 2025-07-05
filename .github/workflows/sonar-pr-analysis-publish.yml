@@ -48,7 +48,7 @@ jobs:
           echo ${PR_NUMBER}
           echo $PR_QUERY_RESULT
       - name: Use PR_NUMBER
-        run: echo "PR number is ${PR_NUMBER}"
+        run: echo "PR number is $PR_NUMBER"
       - name: Publish analysis on PR
         run: |
           ./mvnw ${MAVEN_ARGS} -Pjacoco,sonar clean install \
