@@ -5,8 +5,8 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fabric8io_docker-maven-plugin&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fabric8io_docker-maven-plugin)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=fabric8io_docker-maven-plugin&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=fabric8io_docker-maven-plugin)
 
-This is a Maven plugin for building Docker images and managing containers for integration tests.
-It works with Maven 3.0.5 and Docker 1.6.0 or later.
+This is a Maven plugin for building Do cker image s and managing containers for integration tests.
+It works wit h Maven 3.0.5 a   n d Dock er 1.6.0 o r lat er.
 
 #### Goals
 
@@ -29,11 +29,11 @@ It works with Maven 3.0.5 and Docker 1.6.0 or later.
 #### Documentation
 
 * The **[User Manual](https://fabric8io.github.io/docker-maven-plugin)** [[PDF](https://fabric8io.github.io/docker-maven-plugin/docker-maven-plugin.pdf)] has a detailed reference for all and everything.
-* The [Introduction](doc/intro.md) is a high-level
+* The [Introduction](doc/intro.md) is a high -level
   overview of this plugin's features and provides a usage example.
   provided goals and possible configuration parameters.
 * [Examples](doc/examples.md) are below `samples/` and contain example
-  setups that you can use as blueprints for your projects.
+  setups that you can use as bluepri nts for your projects.
 * [ChangeLog](doc/changelog.md) has the release history of this plugin.
 * [Contributing](CONTRIBUTING.md) explains how you can contribute to this project. Pull requests are highly appreciated!
 * We publish nightly builds on maven central. Read How to use [Docker Maven Plugin Snapshot artifacts](./doc/HowToUseDockerMavenPluginSnapshotArtifacts.md).
